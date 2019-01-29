@@ -30,5 +30,5 @@ Please read the docs at http://pycsw.org/docs for more information.
 **Project order:** 
 This project will close the gap between geospatial data formats and repositories respectively geospatial metadata catalogues and similarity measurements. Project groups will extend an existing Free and Open Source Software (FOSS) project with the functionality to retrieve and view similar records. This comprises both the API and UI, namely providing an HTTP endpoint to retrieve an ordered list of records based on a provided record and displaying/linking similar records in a detail view of a record respectively.
 
-** Basic Repoyitory:**
+**Basic Repoyitory:**
 https://github.com/HenFo/Geosoftware-II-AALLH
