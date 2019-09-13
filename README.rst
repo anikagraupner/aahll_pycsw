@@ -27,7 +27,7 @@ Please read the docs at http://pycsw.org/docs for more information.
 
 **Project-Members A²HL²:**  
     
-[Aysel Tandik](https://github.com/atlanta11950), [Anika Graupner](https://github.com/Anika2), [Henry Fock](https://github.com/HenFo), [Lia Kirsch](https://github.com/cherry13579), [Lukas Jahnich](https://github.com/lukasjah)
+[Aysel Tandik](https://github.com/atlanta11950), [Anika Graupner](https://github.com/anikagraupner), [Henry Fock](https://github.com/HenFo), [Lia Kirsch](https://github.com/cherry13579), [Lukas Jahnich](https://github.com/lukasjah)
 
 **Project order:**    
    
